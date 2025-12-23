@@ -1,0 +1,15 @@
+{
+  "name": "demos",
+  "version": "0.1.0",
+  "description": "My demos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Andrés González",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
